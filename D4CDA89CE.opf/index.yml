@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   972a330e2cd14a4cabc8db4a9032e208:
     parts: {}
+    work_id: D4089
     span:
-    - vol: 79
+    - base: aafa
       start: 0
       end: 81536
-    work_id: D4089
